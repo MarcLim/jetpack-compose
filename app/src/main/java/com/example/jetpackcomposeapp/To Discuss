@@ -1,0 +1,68 @@
+
+
+
+    Introduction
+    - What is Jetpack Compose
+    - Compose vs XML
+    - Sample Views or Apps that already using it
+    - Libraries Need To Add
+    - Compose is Stateful!
+
+
+    1st - Basics
+    - ComponentActivity
+    - Proper Naming ( All Capital )
+    - Annotations ( @Compose )
+    - Box
+    - Modifier
+    - Preview
+    - Text
+
+    - 2nd Box
+    - Multiple Previews
+
+
+    2nd - Views
+    - Column
+    - Row
+
+
+    3rd - Widgets
+    - TextView ( Added Modifiers )
+    - Buttons
+    - ImageView ( Add Vectors, PNG and etc )
+
+
+    4th - Lazy
+    - Preview with Data
+    - Card View
+    - Lazy Column
+    - Lazy Row
+
+
+    5th - Lifecycle Of Composables
+    - What is Composables
+    - Lifecycle
+    - States
+
+
+    6th - State Managements
+    - remember
+    - rememberSaveable
+    - remember vs rememberSaveable
+    - TextField ( onValueChanged )
+
+
+------------------ DEEP TOPICS
+
+    7th - Side Effects & Effect Handlers
+
+
+    8th - MVVM Architecture
+
+
+
+------------------ QUESTIONS
+
+
+
